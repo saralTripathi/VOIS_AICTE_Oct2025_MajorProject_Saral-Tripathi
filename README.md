@@ -27,5 +27,5 @@ The analysis is done using Python in a Jupyter Notebook.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/netflix-analysis.git
+   https://github.com/saralTripathi/VOIS_AICTE_Oct2025_MajorProject_Saral-Tripathi
    cd netflix-analysis
